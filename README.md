@@ -2,6 +2,7 @@
 This project can be launched by installing and running poetry
 
 first make sure you use the following command line:
+
     poetry install
 
 ## Tests
